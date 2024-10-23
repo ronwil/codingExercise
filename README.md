@@ -1,6 +1,6 @@
 ## README.md
 
-**Project Name:** Spring Boot Package Management API
+**Project Name:** Package Management API
 
 **Description:**
 
